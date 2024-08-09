@@ -1,0 +1,11 @@
+:root{
+  /* font */
+  --font-Pre: 'Pretendard';
+  --font-RHD: 'RedHatDisplay';
+  --font-MonuLight:'Monument-Light';
+  --font-MonuRegular:'Monument-Regular';
+  --font-MonuBlack:'Monument-Black';
+
+  /* color */
+  --color-Main: '';
+}

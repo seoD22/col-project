@@ -1,0 +1,20 @@
+.rule__tit{
+  font-family: var(--font-Pre);
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 1.3;
+}
+.rule__txt{
+  font-family: var(--font-Pre);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+}
+.rule__plus{
+  font-family: var(--font-Pre);
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.2;
+  color: red;
+  margin-top: 1vh;
+}
